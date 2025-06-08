@@ -1,2 +1,2 @@
 # uav-project
-This is a drone made by using an esp32.
+This project aims to develop an intelligent UAV system capable of autonomously detecting, tracking, and landing on a moving platform. Once successfully landed, the drone will initiate a self-charging process without human intervention. The goal is to simulate a fully autonomous drone docking workflow, combining real-time object tracking, control systems, and automated power management.
